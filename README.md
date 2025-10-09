@@ -114,7 +114,7 @@ Hi, I'm Chaitya! I thrive at the intersection of quantitative finance, machine l
 ## 🕸 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitya-shah&theme=highcontrast&hide_border=true&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="170" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitya-Aka-Metanoid&theme=highcontrast&hide_border=true&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="170" alt="GitHub Streak Stats"/>
 </p>  
 
 ---
