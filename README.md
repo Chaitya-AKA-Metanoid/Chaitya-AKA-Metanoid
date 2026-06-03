@@ -1,6 +1,6 @@
 # 🦇 Chaitya Shah
 
-🎓 **CS Grad | Quant Finance Explorer | Builder | Writer**  
+🎓 **MFE @ NYU Tandon | Quant Finance Explorer | Builder | Writer**  
 ⚡ Exploring the intersection of **Finance, AI, and Technology**
 
 ---
